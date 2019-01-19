@@ -1,5 +1,5 @@
 {
-  "about_opensource_title": "This application is open source",
+  "about_opensource_title": "هذا التطبيق مفتوح المصدر",
   "about_opensource_message": " We welcome contributions to this application. If you are interested, please join us on Github at",
   "about_opensource_link": "https://github.com/Telos-Foundation/Sqrl",
   "about_message_1": "Sqrl is a standalone desktop application that connects directly to the TELOS blockchain through the API endpoint of your choice.",
